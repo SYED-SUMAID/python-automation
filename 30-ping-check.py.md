@@ -74,16 +74,13 @@ yahoo.com is UP!
 ### 1. Code
 
 
-```markdown
-
 ![alt text](<Screenshot (645).png>)
 ```
 
 
 ### 2. Results
 
-```markdown
-
+```
 ![alt text](<Screenshot (647).png>)
 ```
 
@@ -104,6 +101,4 @@ Python_basics/
 **UP** means the host responded successfully to the ping request.
 **DOWN** means the ping request failed. A host may still be running while blocking ICMP/ping traffic.
 
-## Author
 
-**Sumaid**
