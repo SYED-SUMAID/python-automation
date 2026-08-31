@@ -76,7 +76,7 @@ yahoo.com is UP!
 
 ```markdown
 
-![alt text](Screenshot (645).png)
+![alt text](<Screenshot (645).png>)
 ```
 
 
@@ -84,7 +84,7 @@ yahoo.com is UP!
 
 ```markdown
 
-![alt text](Screenshot (647).png)
+![alt text](<Screenshot (647).png>)
 ```
 
 ## Project Structure
