@@ -111,7 +111,3 @@ Package Information
 ![alt text](<Screenshot (649).png>)
 
 
-
-## Author
-
-**Sumaid**
